@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\huanjinganzhuang\java" version="1.8.0_121">
+<bootpath>
+<entry path="D:\huanjinganzhuang\java\jre\lib\resources.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\rt.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\sunrsasign.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jsse.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jce.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\charsets.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jfr.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\huanjinganzhuang\java\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\huanjinganzhuang\java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\huanjinganzhuang\java\jre" version="1.8.0_121">
+<bootpath>
+<entry path="D:\huanjinganzhuang\java\jre\lib\resources.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\rt.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\sunrsasign.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jsse.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jce.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\charsets.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\lib\jfr.jar"/>
+<entry path="D:\huanjinganzhuang\java\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\huanjinganzhuang\java\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\huanjinganzhuang\java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

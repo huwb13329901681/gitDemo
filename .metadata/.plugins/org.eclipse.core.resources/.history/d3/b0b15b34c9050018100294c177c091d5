@@ -1,0 +1,19 @@
+package org.itcast.com;
+
+import java.util.Scanner;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+
+@SpringBootApplication
+public class ServerApplication {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		String port = scan.nextLine();
+		new SpringApplicationBuilder(ServerApplication.class).profiles("server.port="+port).run(args);
+
+	}
+
+}

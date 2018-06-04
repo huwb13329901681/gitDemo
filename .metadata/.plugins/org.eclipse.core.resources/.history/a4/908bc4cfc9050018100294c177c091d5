@@ -1,0 +1,11 @@
+package org.itcast.com;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class PersonController {
+	
+	public Person getPerson(){
+		Person p = new Person();
+	}
+}

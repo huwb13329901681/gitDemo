@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;cloudClient&apos; to &apos;cloudProduct&apos;" description="Rename resource &apos;cloudClient&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/cloudClient" name="cloudProduct" stamp="1517052154120" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;cloudProduct&apos; to &apos;cloudProducer&apos;" description="Rename resource &apos;cloudProduct&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/cloudProduct" name="cloudProducer" stamp="1517052253447" updateReferences="true"/>
+</session>

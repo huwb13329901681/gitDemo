@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;nextLine&apos; from expression &apos;sca.nextLine()&apos;&#x0D;&#x0A;- Original project: &apos;cloud-cluster-Consumer&apos;&#x0D;&#x0A;- Variable name: &apos;nextLine&apos;&#x0D;&#x0A;- Destination method: &apos;org.itcast.com.ConsumerApplication.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;sca.nextLine()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;nextLine&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;org.itcast.com{ConsumerApplication.java" name="nextLine" replace="true" selection="448 0" stamp="1517150032807" version="1.0"/>
+</session>
